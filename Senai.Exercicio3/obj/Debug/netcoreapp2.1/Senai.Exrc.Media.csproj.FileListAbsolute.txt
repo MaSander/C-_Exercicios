@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\bin\Debug\netcoreapp2.1\Senai.Exrc.Media.deps.json
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\bin\Debug\netcoreapp2.1\Senai.Exrc.Media.runtimeconfig.json
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\bin\Debug\netcoreapp2.1\Senai.Exrc.Media.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\bin\Debug\netcoreapp2.1\Senai.Exrc.Media.dll
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\bin\Debug\netcoreapp2.1\Senai.Exrc.Media.pdb
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\obj\Debug\netcoreapp2.1\Senai.Exrc.Media.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\obj\Debug\netcoreapp2.1\Senai.Exrc.Media.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\obj\Debug\netcoreapp2.1\Senai.Exrc.Media.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\obj\Debug\netcoreapp2.1\Senai.Exrc.Media.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\obj\Debug\netcoreapp2.1\Senai.Exrc.Media.dll
+C:\Users\51755101856\Desktop\c#\Senai.Exrc.Media\obj\Debug\netcoreapp2.1\Senai.Exrc.Media.pdb

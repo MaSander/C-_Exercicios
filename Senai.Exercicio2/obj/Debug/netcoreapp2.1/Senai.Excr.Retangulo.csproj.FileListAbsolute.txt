@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\obj\Debug\netcoreapp2.1\Senai.Excr.Retangulo.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\obj\Debug\netcoreapp2.1\Senai.Excr.Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\obj\Debug\netcoreapp2.1\Senai.Excr.Retangulo.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\obj\Debug\netcoreapp2.1\Senai.Excr.Retangulo.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\bin\Debug\netcoreapp2.1\Senai.Excr.Retangulo.deps.json
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\bin\Debug\netcoreapp2.1\Senai.Excr.Retangulo.runtimeconfig.json
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\bin\Debug\netcoreapp2.1\Senai.Excr.Retangulo.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\bin\Debug\netcoreapp2.1\Senai.Excr.Retangulo.dll
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\bin\Debug\netcoreapp2.1\Senai.Excr.Retangulo.pdb
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\obj\Debug\netcoreapp2.1\Senai.Excr.Retangulo.dll
+C:\Users\51755101856\Desktop\c#\Senai.Excr.Retangulo\obj\Debug\netcoreapp2.1\Senai.Excr.Retangulo.pdb
