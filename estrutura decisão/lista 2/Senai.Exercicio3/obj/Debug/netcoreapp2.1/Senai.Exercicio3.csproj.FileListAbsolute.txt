@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\obj\Debug\netcoreapp2.1\Senai.Exercicio3.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\obj\Debug\netcoreapp2.1\Senai.Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\obj\Debug\netcoreapp2.1\Senai.Exercicio3.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\obj\Debug\netcoreapp2.1\Senai.Exercicio3.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\bin\Debug\netcoreapp2.1\Senai.Exercicio3.deps.json
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\bin\Debug\netcoreapp2.1\Senai.Exercicio3.runtimeconfig.json
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\bin\Debug\netcoreapp2.1\Senai.Exercicio3.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\bin\Debug\netcoreapp2.1\Senai.Exercicio3.dll
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\bin\Debug\netcoreapp2.1\Senai.Exercicio3.pdb
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\obj\Debug\netcoreapp2.1\Senai.Exercicio3.dll
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio3\obj\Debug\netcoreapp2.1\Senai.Exercicio3.pdb

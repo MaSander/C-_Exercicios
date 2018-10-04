@@ -1,0 +1,22 @@
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.deps.json
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.runtimeconfig.json
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.dll
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.pdb
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.dll
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.pdb
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.deps.json
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.runtimeconfig.json
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.dll
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao3.pdb
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.dll
+C:\Users\51755101856\Desktop\c# exercicios\estrutura decisão\Senai.Exc.Decisao3\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao3.pdb

@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\bin\Debug\netcoreapp2.1\Senai.Exercicio10.deps.json
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\bin\Debug\netcoreapp2.1\Senai.Exercicio10.runtimeconfig.json
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\bin\Debug\netcoreapp2.1\Senai.Exercicio10.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\bin\Debug\netcoreapp2.1\Senai.Exercicio10.dll
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\bin\Debug\netcoreapp2.1\Senai.Exercicio10.pdb
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\obj\Debug\netcoreapp2.1\Senai.Exercicio10.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\obj\Debug\netcoreapp2.1\Senai.Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\obj\Debug\netcoreapp2.1\Senai.Exercicio10.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\obj\Debug\netcoreapp2.1\Senai.Exercicio10.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\obj\Debug\netcoreapp2.1\Senai.Exercicio10.dll
+C:\Users\51755101856\Desktop\lista 2\Senai.Exercicio10\obj\Debug\netcoreapp2.1\Senai.Exercicio10.pdb

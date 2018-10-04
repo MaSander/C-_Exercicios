@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao1.deps.json
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao1.runtimeconfig.json
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao1.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao1.dll
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\bin\Debug\netcoreapp2.1\Senai.Exc.Decisao1.pdb
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao1.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao1.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao1.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao1.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao1.dll
+C:\Users\51755101856\Desktop\estrutura decisão\Senai.Exc.Decisao1\obj\Debug\netcoreapp2.1\Senai.Exc.Decisao1.pdb

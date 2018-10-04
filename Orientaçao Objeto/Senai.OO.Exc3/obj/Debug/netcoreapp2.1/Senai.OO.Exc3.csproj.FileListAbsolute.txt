@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\obj\Debug\netcoreapp2.1\Senai.OO.Exc3.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\obj\Debug\netcoreapp2.1\Senai.OO.Exc3.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\obj\Debug\netcoreapp2.1\Senai.OO.Exc3.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\obj\Debug\netcoreapp2.1\Senai.OO.Exc3.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\bin\Debug\netcoreapp2.1\Senai.OO.Exc3.deps.json
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\bin\Debug\netcoreapp2.1\Senai.OO.Exc3.runtimeconfig.json
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\bin\Debug\netcoreapp2.1\Senai.OO.Exc3.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\bin\Debug\netcoreapp2.1\Senai.OO.Exc3.dll
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\bin\Debug\netcoreapp2.1\Senai.OO.Exc3.pdb
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\obj\Debug\netcoreapp2.1\Senai.OO.Exc3.dll
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc3\obj\Debug\netcoreapp2.1\Senai.OO.Exc3.pdb

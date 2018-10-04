@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\bin\Debug\netcoreapp2.1\Senai.OO.Exc4.deps.json
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\bin\Debug\netcoreapp2.1\Senai.OO.Exc4.runtimeconfig.json
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\bin\Debug\netcoreapp2.1\Senai.OO.Exc4.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\bin\Debug\netcoreapp2.1\Senai.OO.Exc4.dll
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\bin\Debug\netcoreapp2.1\Senai.OO.Exc4.pdb
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\obj\Debug\netcoreapp2.1\Senai.OO.Exc4.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\obj\Debug\netcoreapp2.1\Senai.OO.Exc4.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\obj\Debug\netcoreapp2.1\Senai.OO.Exc4.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\obj\Debug\netcoreapp2.1\Senai.OO.Exc4.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\obj\Debug\netcoreapp2.1\Senai.OO.Exc4.dll
+C:\Users\51755101856\Desktop\c# exercicios\orientaçao objeto\Senai.OO.Exc4\obj\Debug\netcoreapp2.1\Senai.OO.Exc4.pdb
