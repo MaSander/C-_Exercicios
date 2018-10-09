@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\bin\Debug\netcoreapp2.1\Senai.Exc.Rept1.deps.json
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\bin\Debug\netcoreapp2.1\Senai.Exc.Rept1.runtimeconfig.json
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\bin\Debug\netcoreapp2.1\Senai.Exc.Rept1.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\bin\Debug\netcoreapp2.1\Senai.Exc.Rept1.dll
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\bin\Debug\netcoreapp2.1\Senai.Exc.Rept1.pdb
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\obj\Debug\netcoreapp2.1\Senai.Exc.Rept1.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\obj\Debug\netcoreapp2.1\Senai.Exc.Rept1.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\obj\Debug\netcoreapp2.1\Senai.Exc.Rept1.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\obj\Debug\netcoreapp2.1\Senai.Exc.Rept1.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\obj\Debug\netcoreapp2.1\Senai.Exc.Rept1.dll
+C:\Users\51755101856\Desktop\laço de repetição\Senai.Exc.Rept1\obj\Debug\netcoreapp2.1\Senai.Exc.Rept1.pdb
