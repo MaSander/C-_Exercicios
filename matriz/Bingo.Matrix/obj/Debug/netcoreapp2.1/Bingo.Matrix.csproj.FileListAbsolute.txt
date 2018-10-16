@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\bin\Debug\netcoreapp2.1\Bingo.Matrix.deps.json
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\bin\Debug\netcoreapp2.1\Bingo.Matrix.runtimeconfig.json
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\bin\Debug\netcoreapp2.1\Bingo.Matrix.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\bin\Debug\netcoreapp2.1\Bingo.Matrix.dll
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\bin\Debug\netcoreapp2.1\Bingo.Matrix.pdb
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\obj\Debug\netcoreapp2.1\Bingo.Matrix.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\obj\Debug\netcoreapp2.1\Bingo.Matrix.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\obj\Debug\netcoreapp2.1\Bingo.Matrix.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\obj\Debug\netcoreapp2.1\Bingo.Matrix.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\obj\Debug\netcoreapp2.1\Bingo.Matrix.dll
+C:\Users\51755101856\Desktop\Bingo_2.0\Bingo.Matrix\obj\Debug\netcoreapp2.1\Bingo.Matrix.pdb

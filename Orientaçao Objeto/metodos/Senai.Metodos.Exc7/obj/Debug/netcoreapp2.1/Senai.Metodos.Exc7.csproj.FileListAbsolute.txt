@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\bin\Debug\netcoreapp2.1\Senai.Metodos.Exc7.deps.json
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\bin\Debug\netcoreapp2.1\Senai.Metodos.Exc7.runtimeconfig.json
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\bin\Debug\netcoreapp2.1\Senai.Metodos.Exc7.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\bin\Debug\netcoreapp2.1\Senai.Metodos.Exc7.dll
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\bin\Debug\netcoreapp2.1\Senai.Metodos.Exc7.pdb
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\obj\Debug\netcoreapp2.1\Senai.Metodos.Exc7.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\obj\Debug\netcoreapp2.1\Senai.Metodos.Exc7.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\obj\Debug\netcoreapp2.1\Senai.Metodos.Exc7.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\obj\Debug\netcoreapp2.1\Senai.Metodos.Exc7.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\obj\Debug\netcoreapp2.1\Senai.Metodos.Exc7.dll
+C:\Users\51755101856\Desktop\exercicios\Orientaçao Objeto\metodos\Senai.Metodos.Exc7\obj\Debug\netcoreapp2.1\Senai.Metodos.Exc7.pdb

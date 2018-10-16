@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\51755101856\\Desktop\\c# exercicios\\Orientaçao Objeto\\metodos\\Senai.Metodos.Exc3\\Senai.Metodos.Exc3.csproj",
+      "projectUniqueName": "C:\\Users\\51755101856\\Desktop\\exercicios\\Orientaçao Objeto\\metodos\\Senai.Metodos.Exc3\\Senai.Metodos.Exc3.csproj",
       "projectName": "Senai.Metodos.Exc3",
-      "projectPath": "C:\\Users\\51755101856\\Desktop\\c# exercicios\\Orientaçao Objeto\\metodos\\Senai.Metodos.Exc3\\Senai.Metodos.Exc3.csproj",
+      "projectPath": "C:\\Users\\51755101856\\Desktop\\exercicios\\Orientaçao Objeto\\metodos\\Senai.Metodos.Exc3\\Senai.Metodos.Exc3.csproj",
       "packagesPath": "C:\\Users\\51755101856\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\51755101856\\Desktop\\c# exercicios\\Orientaçao Objeto\\metodos\\Senai.Metodos.Exc3\\obj\\",
+      "outputPath": "C:\\Users\\51755101856\\Desktop\\exercicios\\Orientaçao Objeto\\metodos\\Senai.Metodos.Exc3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
