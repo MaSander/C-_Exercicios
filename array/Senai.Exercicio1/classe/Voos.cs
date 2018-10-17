@@ -6,7 +6,7 @@ namespace Senai.Exercicio1.classe
     {
         // atributos  
         public string Nome, numeroPassagem;
-        public DateTime datavoo;
+        public DateTime Data;
 
         // metodos
         public void agendar(){
@@ -15,14 +15,14 @@ namespace Senai.Exercicio1.classe
             System.Console.WriteLine("Informe o numero da passagem:");
             numeroPassagem = Console.ReadLine();
             System.Console.WriteLine("Informe a data da viaem");
-            datavoo = DateTime.Parse(Console.ReadLine());
+            Data = DateTime.Parse(Console.ReadLine());
 
         }
         public void Exibir(){
             System.Console.WriteLine($@"
             nome passageiro: {Nome}
             Numero da viagem: {numeroPassagem}
-            Data do voo: {datavoo.ToShortDateString()}");
+            Data do voo: {Data.ToShortDateString()}");
         }
     }
 }
