@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Senai.CadastroEmail.Exc3/1.0.0": {
+      "Senai.ForEach.Exc1/1.0.0": {
         "runtime": {
-          "Senai.CadastroEmail.Exc3.dll": {}
+          "Senai.ForEach.Exc1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Senai.CadastroEmail.Exc3/1.0.0": {
+    "Senai.ForEach.Exc1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

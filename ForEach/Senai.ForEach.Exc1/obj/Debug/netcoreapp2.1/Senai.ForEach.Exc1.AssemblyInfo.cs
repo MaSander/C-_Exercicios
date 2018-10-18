@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Senai.CadastroEmail.Exc3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Senai.ForEach.Exc1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Senai.CadastroEmail.Exc3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Senai.CadastroEmail.Exc3")]
+[assembly: System.Reflection.AssemblyProductAttribute("Senai.ForEach.Exc1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Senai.ForEach.Exc1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
