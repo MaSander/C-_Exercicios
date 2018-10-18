@@ -5,6 +5,7 @@ namespace Senai.ForEach.Exc1 {
     class Program {
         static Usuario[] arrayUsuario;
         static int contador = 0;
+        static string logar, logarsenha;
         static void Main (string[] args) {
             Console.WriteLine ("Infrme a qunatidade de usuarios");
             int quantidadeNumeros = int.Parse (Console.ReadLine ());
@@ -31,6 +32,12 @@ namespace Senai.ForEach.Exc1 {
                             break;
                         }
 
+                    case 3:
+                        {
+                            LogarEmail ();
+                            break;
+                        }
+
                     default:
                         {
                             System.Console.WriteLine ("Opção invalida");
@@ -49,6 +56,7 @@ namespace Senai.ForEach.Exc1 {
             System.Console.WriteLine ("Menu de opções");
             System.Console.WriteLine ("1 - Cadastrar");
             System.Console.WriteLine ("2 - Listar");
+            System.Console.WriteLine ("3 - Entrar no E-mail");
             System.Console.WriteLine ("0 - Sair");
         }
 
@@ -104,9 +112,45 @@ namespace Senai.ForEach.Exc1 {
         static void ListarUsuario () {
             foreach (Usuario item in arrayUsuario) {
 
-                if(item != null){
-                System.Console.WriteLine ($"{item.Nome} - {item.Email}");
+                if (item != null) {
+                    System.Console.WriteLine ($"{item.Nome} - {item.Email}");
                 }
+            }
+        }
+
+        static void LogarEmail () {
+            foreach (Usuario item in arrayUsuario) {
+                bool SenhaExistente = false, EmailExistente = false;
+
+                do {
+                    System.Console.WriteLine ("Digite seu email");
+                    logar = Console.ReadLine ();
+                    if (logar == item.Email) {
+                        System.Console.WriteLine ($"email encontrado. Ola {item.Nome}");
+                        EmailExistente = true;
+                        break;
+                    } else {
+                        Console.Clear();
+                        System.Console.WriteLine ("Email incorreto");
+                    }
+                } while (!EmailExistente);
+
+                Console.Clear();
+                
+
+                do {
+                    System.Console.WriteLine ($"Digite a senha {item.Nome}");
+                    logarsenha = Console.ReadLine ();
+
+                    if (logarsenha == item.Senha) {
+                        System.Console.WriteLine ("Seja bem vindo ao seu E-mail");
+                        SenhaExistente = true;
+                    } else {
+                        Console.Clear();
+                        System.Console.WriteLine ("Senha incorreta");
+                    }
+                } while (!SenhaExistente);
+                break;
             }
         }
     }
