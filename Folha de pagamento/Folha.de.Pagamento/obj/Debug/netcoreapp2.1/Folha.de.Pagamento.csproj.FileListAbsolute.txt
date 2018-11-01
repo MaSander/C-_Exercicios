@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\bin\Debug\netcoreapp2.1\Folha.de.Pagamento.deps.json
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\bin\Debug\netcoreapp2.1\Folha.de.Pagamento.runtimeconfig.json
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\bin\Debug\netcoreapp2.1\Folha.de.Pagamento.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\bin\Debug\netcoreapp2.1\Folha.de.Pagamento.dll
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\bin\Debug\netcoreapp2.1\Folha.de.Pagamento.pdb
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\obj\Debug\netcoreapp2.1\Folha.de.Pagamento.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\obj\Debug\netcoreapp2.1\Folha.de.Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\obj\Debug\netcoreapp2.1\Folha.de.Pagamento.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\obj\Debug\netcoreapp2.1\Folha.de.Pagamento.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\obj\Debug\netcoreapp2.1\Folha.de.Pagamento.dll
+C:\Users\51755101856\Desktop\Folha de pagamento\Folha.de.Pagamento\obj\Debug\netcoreapp2.1\Folha.de.Pagamento.pdb

@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\Csharp.Word\obj\Debug\netcoreapp2.1\Csharp.Word.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\Csharp.Word\obj\Debug\netcoreapp2.1\Csharp.Word.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\Csharp.Word\obj\Debug\netcoreapp2.1\Csharp.Word.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\Csharp.Word\obj\Debug\netcoreapp2.1\Csharp.Word.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\Csharp.Word\bin\Debug\netcoreapp2.1\Csharp.Word.deps.json
+C:\Users\51755101856\Desktop\Csharp.Word\bin\Debug\netcoreapp2.1\Csharp.Word.runtimeconfig.json
+C:\Users\51755101856\Desktop\Csharp.Word\bin\Debug\netcoreapp2.1\Csharp.Word.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\Csharp.Word\bin\Debug\netcoreapp2.1\Csharp.Word.dll
+C:\Users\51755101856\Desktop\Csharp.Word\bin\Debug\netcoreapp2.1\Csharp.Word.pdb
+C:\Users\51755101856\Desktop\Csharp.Word\obj\Debug\netcoreapp2.1\Csharp.Word.dll
+C:\Users\51755101856\Desktop\Csharp.Word\obj\Debug\netcoreapp2.1\Csharp.Word.pdb
