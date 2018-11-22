@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\51755101856\\Desktop\\exercicios\\Leitura.Escrita.TXT\\Leitura.Escrita.TXT.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

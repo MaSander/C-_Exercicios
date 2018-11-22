@@ -1,0 +1,11 @@
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\bin\Debug\netcoreapp2.1\Leitura.Escrita.TXT.deps.json
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\bin\Debug\netcoreapp2.1\Leitura.Escrita.TXT.runtimeconfig.json
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\bin\Debug\netcoreapp2.1\Leitura.Escrita.TXT.runtimeconfig.dev.json
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\bin\Debug\netcoreapp2.1\Leitura.Escrita.TXT.dll
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\bin\Debug\netcoreapp2.1\Leitura.Escrita.TXT.pdb
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\obj\Debug\netcoreapp2.1\Leitura.Escrita.TXT.csprojAssemblyReference.cache
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\obj\Debug\netcoreapp2.1\Leitura.Escrita.TXT.csproj.CoreCompileInputs.cache
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\obj\Debug\netcoreapp2.1\Leitura.Escrita.TXT.AssemblyInfoInputs.cache
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\obj\Debug\netcoreapp2.1\Leitura.Escrita.TXT.AssemblyInfo.cs
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\obj\Debug\netcoreapp2.1\Leitura.Escrita.TXT.dll
+C:\Users\51755101856\Desktop\exercicios\Leitura.Escrita.TXT\obj\Debug\netcoreapp2.1\Leitura.Escrita.TXT.pdb
